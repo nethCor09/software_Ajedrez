@@ -1,3 +1,31 @@
 #BlueJ package file
-#Fri Nov 22 08:53:33 BOT 2024
+editor.fx.0.height=720
+editor.fx.0.width=808
+editor.fx.0.x=1714
+editor.fx.0.y=3
+objectbench.height=90
+objectbench.width=756
+package.divider.horizontal=0.6
+package.divider.vertical=0.799863387978142
+package.editor.height=382
+package.editor.width=640
+package.editor.x=1648
+package.editor.y=22
+package.frame.height=587
+package.frame.width=794
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
 project.charset=UTF-8
+readme.height=60
+readme.name=@README
+readme.width=48
+readme.x=10
+readme.y=10
+target1.height=82
+target1.name=juegoAjedrez
+target1.type=PackageTarget
+target1.width=120
+target1.x=100
+target1.y=20
